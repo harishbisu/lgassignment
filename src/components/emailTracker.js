@@ -28,7 +28,7 @@ const EmailTracker = () => {
   const [error, setError] = useState(null);
 
   const projectConfig = {
-    subject: "Updates to our terms of use",
+    subject: "Lucid Email Tracker",
     email: "harishbisu94@gmail.com",
   };
 
